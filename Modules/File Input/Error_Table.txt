@@ -1,0 +1,59 @@
+General Errors:
+	unknown file name
+	unknown data
+	duplicate data exist in the file
+
+Data Errors:
+// lower cases situation
+	data contains lowercase character(s)
+
+//integer
+	data does not match the [integer] format
+
+// day
+	data does not match the [day] format
+
+// time
+	data does not match the [time] format
+
+// room
+	data does not match the [room] format
+
+// room type which is limited to C or L
+	data does not match the [room type] format
+
+// course
+	data does not match the [course] format
+
+// name
+	data does not match the [faculty name] format
+
+// year of service
+	data does not match the [year_of_service] format
+
+
+Spacing Errors:
+// empty line before the first data token
+	input file contains empty line(s)
+
+
+Limitation Errors:
+// for integers less than the minimum or larger than the maximum
+	integer exceeds the data limitation 
+
+Missing Data Errors:
+// these messages report when there are no more data left in the line while more datas are expected to be read
+// for integer data like number of minutes, size, sections etc, we should just conclude them as
+// program expecting [integer] data
+	program expecting [day] data
+	program expecting [ / symbol ] data
+	program expecting [time] data
+	program expecting [room type] data
+	program expecting [room name] data
+	program expecting [course name] data
+	program expecting [faculty name] data
+	program expecting [email] data
+
+Extra Data Errors:
+// basically it will report this error when there are more data in the line after all the correct datas are read
+	input file contains extra unidentified data 

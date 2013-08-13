@@ -1,0 +1,12 @@
+Adam, Larry 5 alarry@una.edu 12
+Aguado, Alex 3 aalex@una.edu 12
+Armstrong, Linda 10 alinda@una.edu 9
+Bailey, Birdie 5 bbirdie@una.edu 9
+Baird, Paul 5 bpaul@una.edu 12
+Cagle, Corey 5 ccorey@una.edu 12
+Cain, Jonathan 6 cjonathan@una.edu 12
+Center, Thomas 4 cthomas@una.edu 12
+Chaney, Pamela 3 cpamela@una.edu 9
+Daly, Robert 10 drobert@una.edu 12
+Davis, Ronald 6 dronald@una.edu 12
+Davis, Ronald 6 dronald12@una.edu 12
