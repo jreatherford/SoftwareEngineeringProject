@@ -1,0 +1,8 @@
+Adam, Larry	CS245	mid-day
+Adam, Larry	CS355	mid-day
+Adam, Larry	CS499	mid-day
+Aguado, Alex	CS410W	mid-day
+Aguado, Alex	CS355	mid-day
+Aguado, Alex	CS245	mid-day
+Armstrong, Linda CS245	mid-day
+

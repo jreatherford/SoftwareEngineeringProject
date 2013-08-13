@@ -1,0 +1,16 @@
+Blankinship, Lisa	3.5	lBlankinship@una.edu	11
+Perry, Mike		12	mPerry@una.edu		4
+Hubler, Tommy		6	tHubler@una.edu		9
+Richardson, Tetra	4	tRichardson@una.edu     9
+Davison, Peter		2.5	pDavison@una.edu	11
+Bruce, Erin		3.5	eBruce@una.edu		6
+Kittle, Pamela		7	pKittle@una.edu		5
+Pounders, Kevin		10	kPounders@una.edu	7
+Ray, Jeff		12	jRay@una.edu		8
+Menapace, Francis	15.5	fMenapace@una.edu	7
+Haggerty, Thomas	40	tHaggerty@una.edu	10
+Marvin, Gary		12	gMarvin@una.edu		6
+Daly, Rita		3.5	rDaly@una.edu		9
+Simbeck, David		7	dSimbeck@una.edu	8
+Crews, Angie		7.5	aCrews@una.edu		9
+Roush, Denvir		5.5	dRoush@una.edu		7

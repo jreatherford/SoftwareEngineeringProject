@@ -1,0 +1,4 @@
+Adam, Larry 5 alarry@una.edu 13
+Aguado, Alex 3 aalex@una.edu 14
+Baird, Paul 5 bpaul@una.edu 13
+Cagle, Corey 5 ccorey@una.edu 14

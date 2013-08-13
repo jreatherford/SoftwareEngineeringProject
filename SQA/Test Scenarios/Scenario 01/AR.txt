@@ -1,0 +1,4 @@
+L	20	FOX 231
+C	15      FOX 227
+C	20      FOX 189
+C	30      FOX 128

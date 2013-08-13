@@ -1,0 +1,3 @@
+Adam, Larry 5 alarry@una.edu 9
+Aguado, Alex 3 aalex@una.edu 9
+Bailey, Birdie 5 bbirdie@una.edu 9

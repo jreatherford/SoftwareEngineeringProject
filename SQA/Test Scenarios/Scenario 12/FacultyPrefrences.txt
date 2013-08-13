@@ -1,0 +1,9 @@
+Adam, Larry	CS245	evening
+Adam, Larry	CS355	evening
+Adam, Larry	CS499	evening
+Adam, Larry	CS410W	evening
+Aguado, Alex	CS410W	evening
+Aguado, Alex	CS355	evening
+Aguado, Alex	CS245	evening
+Armstrong, Linda CS245	evening
+

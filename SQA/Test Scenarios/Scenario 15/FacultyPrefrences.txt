@@ -1,0 +1,14 @@
+Professor                 Class         Time            
+_________               ______    ____           
+Adam, Larry	CS245	Morning
+Adam, Larry	CS355	Night
+Adam, Larry	CS499	Noon
+
+Adam, Larry	CS410W	Noon
+Aguado, Alex	CS499	Noon
+Aguado, Alex	CS410	Morning
+Aguado, Alex	CS355	Morning
+
+Aguado, Alex	CS410W	Night
+Anderson, Bill  CS155   Noon
+Anderson, Bill  CS355   Night  

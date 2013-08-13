@@ -1,0 +1,20 @@
+Professor                 Class         Time            
+_________               ______    ____           
+Adam, Larry	CS245	Morning
+Adam, Larry	CS355	Night
+Adam, Larry	CS499	Noon
+Aguado, Alex	CS499	Noon
+Aguado, Alex	CS245	Noon
+Aguado, Alex	CS355	Morning
+Armstrong, Linda	CS355	Morning	
+Armstrong, Linda	CS245	Noon
+Bailey, Birdie	CS499	Noon
+Baird, Paul	CS499	Morning
+Baird, Paul	CS499	Noon
+Cagle, Corey	CS245	Noon
+Cain, Jonathan	CS245	Night
+Cain, Jonathan	CS355	Morning
+Center, Thomas	CS245	Night
+Chaney, Pamela	CS355	Morning
+Daly, Robert	CS355	Noon
+Daly, Robert	CS499	Night
