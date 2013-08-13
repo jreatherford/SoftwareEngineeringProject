@@ -1,0 +1,10 @@
+$_ENV['DIRECTORY'] =  "Test\\";
+$_ENV['PRIORITIZE_SENIORITY'] = true;
+$_ENV['NUM_SCHEDULE_ATTEMPTS'] = 100;
+$_ENV['ERROR_WEIGHTS'] = array(
+    '100_LEVEL' => 1,
+    '200_LEVEL' => 2,
+    '300_LEVEL' => 3,
+    '400_LEVEL' => 5,
+    'UNWANTED_TIME' => 2,
+    'UNSATISFIED_PREF' => 4);

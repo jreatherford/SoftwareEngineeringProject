@@ -1,0 +1,5 @@
+changed the following files:
+
+pref_table.php  (changed colspan properties on lines 216 and 219 to make it display messages a little better)
+add_pref_table.php  (changes all over the file.  Mostly to the HTML output to make it look better/integrate better)
+addClass.php  (entirely new file.  Made to match the facultyHomepage)

@@ -1,0 +1,26 @@
+    if( !isset($_SESSION['CURRENTDIR']) )
+    {
+        $semester_dirs = @unserialize("semester.dat");
+        if( $semester_dirs == FALSE )
+            $_SESSION['DIRECTORY'] = "Default_Semester\\";
+        else
+        {
+            foreach( $semester_dirs as $s )
+                if( $s->current == 'true' )
+                {
+                    $_SESSION['DIRECTORY'] = $s->path;
+                    $_SESSION['CURRENTDIR'] = $s;
+                    break;
+                }
+        }
+    }
+    elseif( $_SESSION['CURRENTDIR']->current != 'true' )
+    {
+        foreach( $semester_dirs as $s )
+            if( $s->current == 'true' )
+            {
+                $_SESSION['DIRECTORY'] = $s->path;
+                $_SESSION['CURRENTDIR'] = $s;
+                break;
+            }
+    }
