@@ -1,0 +1,4 @@
+Start:	2:00pm
+End:	6:20pm
+1. Basic Login functions
+2. Create a tempary users table to test each functions

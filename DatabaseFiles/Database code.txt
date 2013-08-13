@@ -1,0 +1,97 @@
+CREATE TABLE Perference 
+    ( 
+     preferenceNo NUMBER (20)  NOT NULL , 
+     facultyName VARCHAR2 (20) , 
+     className VARCHAR2 (20) , 
+     preference VARCHAR2 (20) 
+    ) 
+;
+
+
+
+ALTER TABLE Perference 
+    ADD CONSTRAINT Faculty_PK PRIMARY KEY ( preferenceNo ) ;
+
+
+CREATE TABLE Admin_Account 
+    ( 
+     adminNo NUMBER (20)  NOT NULL , 
+     adminName VARCHAR2 (50)  NOT NULL , 
+     password VARCHAR2 (20) , 
+     Perference_preferenceNo NUMBER (20)  NOT NULL 
+    ) 
+;
+
+
+
+ALTER TABLE Admin_Account 
+    ADD CONSTRAINT TABLE_4_PK PRIMARY KEY ( adminNo ) ;
+
+
+
+
+ALTER TABLE Admin_Account 
+    ADD CONSTRAINT Admin_Account_Perference_FK FOREIGN KEY 
+    ( 
+     Perference_preferenceNo
+    ) 
+    REFERENCES Perference 
+    ( 
+     preferenceNo
+    ) 
+;
+
+
+
+
+
+CREATE TABLE Account 
+    ( 
+     accountNo NUMBER (20)  NOT NULL , 
+     accountName VARCHAR2 (50)  NOT NULL , 
+     password VARCHAR2 (20)  NOT NULL , 
+     Perference_preferenceNo NUMBER (20)  NOT NULL 
+    ) 
+;
+
+
+
+ALTER TABLE Account 
+    ADD CONSTRAINT Account_PK PRIMARY KEY ( accountNo ) ;
+
+
+
+
+ALTER TABLE Account 
+    ADD CONSTRAINT Account_Perference_FK FOREIGN KEY 
+    ( 
+     Perference_preferenceNo
+    ) 
+    REFERENCES Perference 
+    ( 
+     preferenceNo
+    ) 
+;
+
+
+
+
+
+
+CREATE TABLE Schedule 
+    ( 
+     scheduleNo NUMBER (20)  NOT NULL , 
+     scheduleclassName VARCHAR2 (20)  NOT NULL , 
+     scheduleclassTime DATE  NOT NULL , 
+     scheduleclassRoom VARCHAR2 (20)  NOT NULL , 
+     schedulefacultyName VARCHAR2 (20)  NOT NULL 
+    ) 
+;
+
+
+
+ALTER TABLE Schedule 
+    ADD CONSTRAINT Schedule_PK PRIMARY KEY ( scheduleNo ) ;
+
+
+

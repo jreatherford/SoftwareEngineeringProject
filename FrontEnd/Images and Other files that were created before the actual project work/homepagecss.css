@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+html,body,div,table{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transpaent;
+	}
+
+#head-wrap {/*This section sets the head background*/
+			height: 201px; 
+			background:#3b4040 url('head-bkg.png') no-repeat center top;
+			border-top:4px solid #db9f11;
+			border-bottom: 1px solid#0000;
+			top: -10000px;
+			margin-left: 0px;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 0px;
+			}
+#main-head {
+	width:1000px;
+	margin: 0 auto;
+	padding: 0px 0px 0px 0px;
+	position: absolute;
+	left: 32px;
+	top: 1px;
+}
+
+#logo {width: auto ; margin: 0 ; padding: 0 10px 0 10px; position: relative;} 
+#heading {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+	text-transform: capitalize;
+	color: #F0B310;
+	line-height: normal;
+	font-variant: normal;
+	letter-spacing: normal;
+	text-align: center;
+	vertical-align: 100%;
+	word-spacing: normal;
+	position: relative;
+	height: auto;
+	width: auto;
+	top: auto;
+	right: auto;
+	bottom: auto;
+	left: auto;
+}
