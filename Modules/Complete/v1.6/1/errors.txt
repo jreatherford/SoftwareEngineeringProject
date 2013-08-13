@@ -1,0 +1,3 @@
+Error List:
+
+RE211 (day)  could not be scheduled. Reason: There are no rooms available to accomodate the course.

@@ -1,0 +1,214 @@
+/******************************************************************************
+* File Name: homepage.css
+* Pages used for this file: 1) index.html
+*                           2) login.php
+*
+*
+* 
+*******************************************************************************/
+
+@charset "utf-8";
+
+html,body,div,table
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+
+#left_table
+{
+    border-collapse:collapse;
+    border-top: 5px solid #999;
+    border-bottom: 5px solid #999;
+    border-left: 5px solid #999;
+    border-right: 5px solid #999;
+    position: relative;
+    margin-left: 40px;
+}
+
+#head-wrap 
+{/*This section sets the head background*/
+	height: 135px;
+	border-top: 4px solid #DB9F11;
+	border-bottom: 65px solid #4B1862;
+	top: -10000px;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #3b4040;
+	background-image: url(images/head-bkg.png);
+	background-repeat: repeat;
+	background-position: center top;
+}
+
+#links
+{
+	width:30%;
+	float:left;
+    position: relative;
+}
+
+#links a:active{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #4B1862;
+	font-style: normal;
+	font-weight: bold;
+	position: relative;
+	vertical-align: 100%;
+	word-spacing: normal;
+	position: relative;
+	height: 16px;
+	width: auto;
+	top: auto;
+	right: auto;
+	bottom: auto;
+	left: auto;
+	font-size: 16px;
+	line-height: normal;
+	cursor: pointer;
+}
+
+#links a{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #4B1862;
+	font-style: normal;
+	font-weight: bold;
+	position: relative;
+	vertical-align: 100%;
+	word-spacing: normal;
+	position: relative;
+	height: 16px;
+	width: auto;
+	top: auto;
+	right: auto;
+	bottom: auto;
+	left: auto;
+	font-size: 16px;
+	line-height: normal;
+}
+
+#links a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #DB9F11;
+	font-style: normal;
+	font-weight: bold;
+	position: relative;
+	vertical-align: 100%;
+	word-spacing: normal;
+	position: relative;
+	height: 16px;
+	width: auto;
+	top: auto;
+	right: auto;
+	bottom: auto;
+	left: auto;
+	font-size: 16px;
+	line-height: normal;
+	cursor: pointer;
+}
+
+#main-head {
+	width: 1000px;
+	margin: 0 auto;
+	padding: 0px 0px 0px 0px;
+	position: absolute;
+	left: 31px;
+	top: 0px;
+}
+
+#sched_view p
+{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #DB9F11;
+	font-style: normal;
+	font-weight: bold;
+	position: relative;
+	vertical-align: 100%;
+	word-spacing: normal;
+	position: relative;
+	height: 16px;
+	width: auto;
+	top: auto;
+	right: auto;
+	bottom: auto;
+	left: auto;
+	font-size: 16px;
+	line-height: normal;
+	cursor: pointer;
+}
+
+#heading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+	text-transform: capitalize;
+	color: #F0B310;
+	line-height: normal;
+	font-variant: normal;
+	letter-spacing: normal;
+	vertical-align: 100%;
+	word-spacing: normal;
+	position: relative;
+	height: auto;
+	width: auto;
+	top: auto;
+	right: auto;
+	bottom: auto;
+	left: auto;
+}
+
+#sched_link
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: #F0B310;
+    line-height: normal;
+    font-variant: normal;
+    letter-spacing: normal;
+    vertical-align: 100%;
+    word-spacing: normal;
+    position: relative;
+    height: auto;
+    width: auto;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;    
+}
+            
+.subhead table tr
+{
+    vertical-align:top
+}
+
+.subhead table tr td
+{
+    padding:0 0 0 14px
+}
+
+.subhead
+{
+    padding-bottom:4px
+}
+
+.subhead
+{
+    font-family:verdana , sans-serif; 
+    font-size: 11px;
+    color:#fff; font-weight:normal; 
+    padding-left:0px
+}

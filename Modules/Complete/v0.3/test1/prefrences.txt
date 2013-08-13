@@ -1,0 +1,9 @@
+Professor     Class     Time            Submitted
+_________    ______     ____            _________
+Parker       RE425	Mid-day		5/27 12:01
+Parker       RE404L	Mid-day		5/27 12:02
+Parker       RE099	Morning		5/27 12:03
+Richards     RE425	Evening		5/30 08:01
+Richards     RE417	Evening		5/30 08:02
+Wayne        RE425	Morning		5/1 10:01
+Wayne        RE404L	Morning		5/1 10:02

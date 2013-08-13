@@ -1,0 +1,9 @@
+Error List:
+
+RE417 (night)  could not be scheduled. Reason: There are no available time slots to assign the course.
+RE395 (day)  could not be scheduled. Reason: All possible assignments conflict with existing scheduled courses.
+RE327 (day)  could not be scheduled. Reason: All possible assignments conflict with existing scheduled courses.
+RE289L (night)  could not be scheduled. Reason: There are no available time slots to assign the course.
+RE289L (night)  could not be scheduled. Reason: There are no available time slots to assign the course.
+RE189 (day)  could not be scheduled. Reason: There are no rooms available to accomodate the course.
+RE099 (day)  could not be scheduled. Reason: There are no rooms available to accomodate the course.

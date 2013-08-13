@@ -1,0 +1,20 @@
+Error List:
+
+Bailey, Birdie's preference was scheduled outside of their preferred time. Course: RE425, Preference: evening, Given: 13:00
+'s preference could not be incorporated into the schedule. Course: RE425, Preference: morning
+'s preference could not be incorporated into the schedule. Course: RE425, Preference: midday
+'s preference could not be incorporated into the schedule. Course: RE404L, Preference: midday
+RE395 (day)  could not be scheduled. Reason: All possible assignments conflict with existing scheduled courses.
+RE395 (day)  could not be scheduled. Reason: All possible assignments conflict with existing scheduled courses.
+RE395 (internet)  could not be scheduled. Reason: There are no faculty members available to teach the course.
+RE327 (internet)  could not be scheduled. Reason: There are no faculty members available to teach the course.
+RE327 (day)  could not be scheduled. Reason: All possible assignments conflict with existing scheduled courses.
+RE211 (day)  could not be scheduled. Reason: There are no rooms available to accomodate the course.
+RE289L (night)  could not be scheduled. Reason: There are no faculty members available to teach the course.
+RE289L (night)  could not be scheduled. Reason: There are no faculty members available to teach the course.
+RE289L (internet)  could not be scheduled. Reason: There are no faculty members available to teach the course.
+'s preference could not be incorporated into the schedule. Course: RE099, Preference: morning
+RE189 (day)  could not be scheduled. Reason: There are no faculty members available to teach the course.
+RE189 (internet)  could not be scheduled. Reason: There are no faculty members available to teach the course.
+RE189 (internet)  could not be scheduled. Reason: There are no faculty members available to teach the course.
+RE099 (day)  could not be scheduled. Reason: There are no faculty members available to teach the course.

@@ -1,0 +1,3 @@
+Parker, Peter	10	pparker@una.edu		12
+Richards, Reed	40.5	rrichards@una.edu 	18
+Wayne, Bruce	20	bwayne@una.edu 		12

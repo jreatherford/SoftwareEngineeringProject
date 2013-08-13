@@ -1,0 +1,54 @@
+<?php
+//******************************************************************************
+//Creater: Wenhao Wang
+//******************************************************************************
+//April 22 2013
+//******************************************************************************
+//This file is to read the file, creat the username and temporary passowrd
+//and import then into database.
+//******************************************************************************
+include('functions.php'); ?>
+
+<!DOCTYPE html>
+<?php
+
+include("File_Readers.php");
+
+$temp_file = $_FILES["file"]['tmp_name'];
+$file = file_get_contents($temp_file);
+
+
+
+$reader = new Faculty_File_Reader($file);
+$faculty = $reader->Scan_File();
+
+if( is_string($faculty[0]) == false )
+{
+    echo "File uploaded successfully.<br />";
+    foreach($faculty as $info){
+        //echo '<tr><td>'.
+        //      $info->name.'</td><td>'.$info->year_of_service.
+            //    '</td><td>'.$info->email.'</td><td>'.
+              //  $info->hour.'</td><tr>';
+        $name = $info->name;
+        $yos = $info->year_of_service;
+        $email = $info->email;
+        $hour = $info->hour;
+        $username = Get_ename($email);
+        $password = "leo!ini0";
+        Insert_file($username, $name, $password, $yos, $email, $hour);
+    }
+}
+else
+{
+    echo "File not uploaded. File contained the following errors:<br />";
+    foreach( $faculty as &$f)
+        echo "$f<br />";
+}
+?>
+<html>
+    <body>
+        <a href="admin.php">GoBack</a>;
+    </body>
+</html>
+

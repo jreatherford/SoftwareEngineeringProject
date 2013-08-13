@@ -1,0 +1,3 @@
+Error List:
+
+CS355 (night)  could not be scheduled. Reason: All possible assignments conflict with existing scheduled courses.

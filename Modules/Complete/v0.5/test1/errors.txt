@@ -1,0 +1,8 @@
+Error List:
+
+Richards, Reed's preference was scheduled outside of their preferred time. Course: RE425, Preference: evening, Given: 13:00
+Wayne, Bruce's preference could not be incorporated into the schedule. Course: RE425, Preference: morning
+Parker, Peter's preference could not be incorporated into the schedule. Course: RE425, Preference: midday
+Parker, Peter's preference could not be incorporated into the schedule. Course: RE404L, Preference: midday
+RE211 (day)  could not be scheduled. Reason: There are no rooms available to accomodate the course.
+Parker, Peter's preference was scheduled outside of their preferred time. Course: RE099, Preference: morning, Given: 11:00

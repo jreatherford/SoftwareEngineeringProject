@@ -1,0 +1,25 @@
+#s1{
+    font-family: arial;
+    font-size: 1.2em;
+    color: #003366;
+}
+
+#title{
+    font-family: 'Times New Roman',Times,serif;
+    color: black;
+    font-size: 3.7em;
+    
+}
+
+.form{
+    font-family: arial;
+    font-size: 24px;
+    color: black;
+    background: skyblue;
+    text-decoration: none;
+}
+
+#b1{
+    background-image: url(http://blogfile.ifeng.com/uploadfiles/albumpic/4/485/pic_1a08712a094810eafaf292f3c2cde485.jpg);
+    position: inherit;
+}

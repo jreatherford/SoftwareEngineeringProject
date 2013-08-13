@@ -1,0 +1,1 @@
+O:5:"Rules":9:{s:9:"seniority";N;s:8:"attempts";s:4:"1000";s:10:"weight_100";i:1;s:10:"weight_200";i:2;s:10:"weight_300";i:3;s:10:"weight_400";i:5;s:20:"weight_unwanted_time";i:2;s:23:"weight_unsatisfied_pref";i:4;s:8:"senority";s:4:"true";}

@@ -1,0 +1,177 @@
+@charset "utf-8";
+
+html,body,div,table
+{
+    margin: 0;
+    padding: 0 ;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    position: relative;
+}
+textarea
+{
+    resize:none;
+}
+
+#heading_COB
+{
+    font-family: Arial, sans-serif;
+	color: #444444;
+	text-decoration: none;
+	font-weight: bold;
+	position: relative;
+    font-size: 22px;
+}
+
+#header
+{
+	border-top: 3px solid #DFAC11;
+	position:relative ;
+	margin:0;
+	padding:0;
+}
+
+
+#container
+{
+    width : 1280px;
+	position: relative;
+}
+
+#header_left
+{
+    float : left;
+    width : 75%;
+	background-color: #4B1862;
+    position: relative;
+}
+
+#header_right
+{
+    float : left;
+    width : 25%;
+    background-color: #4B1862;
+}
+
+#headings
+{
+    float:left;
+	width:100% ;
+	background-color: #F5F5F5;
+}
+
+#left_column
+{
+	width:25%;
+	float:left;
+    position: relative;
+}
+
+#table_left_top
+{
+	border-collapse: collapse;
+    border: 5px solid #999;
+    position: relative;
+	margin-left: 40px;
+	border-color: #999;
+}
+
+#table_left_bottom
+{
+    border-collapse:collapse;
+    border-bottom: 5px solid #999;
+    border-left: 5px solid #999;
+    border-right: 5px solid #999;
+    position: relative;
+    margin-left: 40px;
+}
+
+#display_area
+{
+    width : 580px ;
+	height : 325px;
+    border-collapse: collapse;
+	border:5px solid #999;
+    position: relative;
+	padding-bottom: 5px;
+}
+
+#current
+{
+    font-family: Arial, sans-serif;
+	color: #DFAC11;
+	text-decoration: none;
+	font-weight: bold;
+	position: relative;
+	font-size: 18px;
+}
+
+#not_current
+{
+    font-family: Arial, sans-serif;
+	color: #4B1862;
+	text-decoration: none;
+	font-weight: bold;
+	position: relative;
+	font-size: 18px;
+}
+
+
+#left_column a:hover{
+    font-family: Arial, sans-serif;
+	color: #DFAC11;
+	text-decoration: none;
+	font-weight: bold;
+	position: relative;
+	font-size: 18px;
+}
+
+#middle_column
+{
+	width:50%;
+	float:left;
+    position: relative;
+}
+
+#right_sidebar
+{
+    width: 25%;
+    float: left;
+    position: relative;
+}
+
+#footer
+{
+    clear:both;
+    text-align:center;
+	background-color: #333333;
+}
+
+#bottom_links
+{
+	font-family: Arial, sans-serif;
+	color: #7C7C7C;
+	text-decoration: none;
+	font-style: normal;
+	font-weight: normal;
+	position: relative;
+	word-spacing: normal;
+	position: relative;
+	font-size: 12px;
+	line-height: normal;
+}
+
+#footer a:hover
+{
+	font-family: Arial, geneva, sans-serif;
+	color : #F5F5F5;
+	text-decoration: none;
+	font-style: normal;
+	font-weight: normal;
+	position: relative;
+	word-spacing: normal;
+	font-size: 12px;
+	line-height: normal;
+	cursor: pointer;
+}

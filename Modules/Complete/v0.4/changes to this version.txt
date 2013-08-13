@@ -1,0 +1,16 @@
+Fixed link to the faculty page on the prereq page
+
+scanner_helper = change DIRECTORY from "test\\" to "Test\\"
+
+add_class.php changed to add_pref_table.php.
+
+add_pref_table.php changed and documented.
+
+addClass.php changed to get data from add_pref_table.php
+
+pref_table.php changed and documented heavily.
+
+FacultyHomepage.php changed to reflect a change in pref_table.php
+
+
+-James
